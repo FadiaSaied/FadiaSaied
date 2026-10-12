@@ -17,6 +17,8 @@ I completed Full Stack Web Development training at ITI and I'm currently continu
 * Tailwind CSS
 * TypeScript
 * Angular
+* Sass
+  
 
 **Back-End**
 
@@ -28,7 +30,7 @@ I completed Full Stack Web Development training at ITI and I'm currently continu
 
 * Git & GitHub
 * Postman
-* Docker
+
 
 ### 📚 Currently Learning
 
